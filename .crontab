@@ -1,0 +1,4 @@
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin
+
+10 2,8,14,20 * * *	cd /home/user/Documents/news_parser && python news_parser.py
+5,20,35,50 * * * *	cd /home/user/Documents/news_parser && ./hippie_killer.sh
