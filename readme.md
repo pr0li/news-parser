@@ -4,7 +4,7 @@ This tool parses news articles and saves words and counts to a database. It make
 
 It parses news sites from Argentina and uses spanish models for Natural Language Processing, but it should be easy to add models for other languages, as well as code to handle other news sites.
 
-*Read this in other languages: [Español](readme.es.md)
+*Read this in other languages: [Español](readme.es.md)*
 
 ### Why?
  - Words in these dictionaries are current and specific for a particular place. Newspapers from Argentina will produce words that are relevant for Argentina.
