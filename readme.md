@@ -1,6 +1,6 @@
 # Python news parser for dictionary attacks
 
-This tool parses news articles and saves words and counts to a database. It makes use of either a **Part of Speech tagger** or **Named Entity Recognizer** to build wordlists for dictionary attacks.
+This tool parses news articles and saves words and counts to a database. It makes use of either a **Part of Speech Tagger** or **Named Entity Recognizer** to build wordlists for dictionary attacks.
 
 It parses news sites from Argentina and uses spanish models for Natural Language Processing, but it should be easy to add models for other languages, as well as code to handle other news sites.
 
@@ -14,13 +14,13 @@ This is a java tool that assigns parts of speech to each word in a sentence. For
 
 The model used is for spanish words, and is available at Stanford NLP Group's site. It is possible to train and use your own models if you find the default ones to be inaccurate.
 
-*Site: https://nlp.stanford.edu/software/tagger.html
+**Site:** https://nlp.stanford.edu/software/tagger.html
 
 ### Stanford Named Entity Recognizer
 
 This is a java tool that labels sequences of words in a text which are the names of things. Names, places and organizations are kept as relevant words. A spanish model has been used. You can change it if needed.
 
-*Site: https://nlp.stanford.edu/software/CRF-NER.html
+**Site:** https://nlp.stanford.edu/software/CRF-NER.html
 
 ## Dependencies
 
