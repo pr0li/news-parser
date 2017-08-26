@@ -4,6 +4,12 @@ This tool parses news articles and saves words and counts to a database. It make
 
 It parses news sites from Argentina and uses spanish models for Natural Language Processing, but it should be easy to add models for other languages, as well as code to handle other news sites.
 
+## Usage
+
+```bash
+$ python2 news_parser.py
+```
+
 ## Natural Language Processing
 
 In order to select relevant words, two different tools by **The Stanford Natural Language Processing Group** are used. They are not provided here, so you will have to download them from their site. I do include bash scripts that execute these tools.
