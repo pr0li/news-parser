@@ -105,6 +105,12 @@ A veces los procesos de Java de las herramientas de Stanford (NER y PoS Tagger) 
 
 El script es ***hippie_killer.sh*** y también es llamado desde ***.crontab***.
 
+## Cantidad de palabras nuevas en el tiempo
+
+El siguiente gráfico muestra el número de palabras nuevas por cada semana de ejecución, para el sitio de Infobae. Estos datos corresponden a la colección ***words_all***.
+
+![nuevas palabras](http://i.imgur.com/mivC7V8.png)
+
 ## Diccionarios
 
 Si no te interesa el código y solamente viniste por los diccionarios, los encontrarás en la carpeta **dict**.
