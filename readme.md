@@ -107,7 +107,7 @@ That bash script is included here as ***hippie_killer.sh*** and is also included
 
 ## Words added over time
 
-Here's a graph showing the number of new words added each week for Infobae news site. This corresponds to the collection 'words_all'.
+Here's a graph showing the number of new words added each week for Infobae news site. This corresponds to the collection ***words_all***.
 
 ![new words](http://i.imgur.com/Vy8oTUp.png)
 
