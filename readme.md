@@ -105,6 +105,12 @@ Sometimes java processes for NER or PoS Tagger never finish. Instead of analyzin
 
 That bash script is included here as ***hippie_killer.sh*** and is also included in ***.crontab***.
 
+## Words added over time
+
+Here's a graph showing the number of new words added each week for Infobae news site. This corresponds to the collection 'words_all'.
+
+![new words](http://i.imgur.com/Vy8oTUp.png)
+
 ## Dictionaries
 
 If you don't really care about the code and just came here for the dictionaries, you'll find them under ***dict*** subdirectory.
